@@ -67,6 +67,30 @@ En este proyecto, implementé un **web scraper** utilizando **BeautifulSoup** y 
 
 ---
 
+## 🌐 Proyecto 4: Optimización de Hiperparámetros y Entrenamiento con RandomForest
+
+### Descripción:
+
+En este proyecto, implementé un **entrenamiento de modelo de Machine Learning** utilizando el clasificador **RandomForest** para la clasificación de imágenes del dataset **MNIST**. Primero, optimicé los hiperparámetros del modelo utilizando **RandomizedSearchCV** para determinar los valores más efectivos para parámetros como `n_estimators`, `max_depth`, `min_samples_split`, entre otros. Posteriormente, entrené el modelo con los hiperparámetros óptimos y evalué su rendimiento en un conjunto de datos de prueba.
+
+Este proyecto demuestra cómo ajustar de manera eficiente los hiperparámetros para mejorar la precisión del modelo de clasificación.
+
+### Herramientas utilizadas:
+
+- **Python**
+- **Scikit-learn**
+- **RandomForestClassifier**
+- **RandomizedSearchCV**
+- **MNIST dataset**
+
+### Objetivos:
+
+- Optimizar los hiperparámetros del modelo utilizando **RandomizedSearchCV**
+- Entrenar un clasificador **RandomForest** para la clasificación de imágenes
+- Evaluar el rendimiento del modelo y obtener la precisión en el conjunto de datos de prueba
+
+---
+
 ## 🚀 Conclusión
 
 Estos proyectos me han permitido desarrollar mis habilidades en el manejo de datos y la implementación de modelos de machine learning. Mi objetivo es seguir aprendiendo y aplicando estas herramientas a nuevos y más complejos problemas del mundo real. ¡Gracias por visitar mi portafolio y no dudes en ponerte en contacto si deseas saber más!

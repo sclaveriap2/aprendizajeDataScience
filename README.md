@@ -99,4 +99,4 @@ Estos proyectos me han permitido desarrollar mis habilidades en el manejo de dat
 
 ## 📫 Contacto
 
-Si tienes alguna pregunta o quieres colaborar en un proyecto, puedes contactarme a través de mis redes sociales o enviarme un correo electrónico a **sclaveriap@gmail.com.com**.
+Si tienes alguna pregunta o quieres colaborar en un proyecto, puedes contactarme a través de mis redes sociales o enviarme un correo electrónico a **sclaveriap@gmail.com**.
